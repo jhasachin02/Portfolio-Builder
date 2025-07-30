@@ -15,6 +15,9 @@ A modern web application for building and customizing personal portfolios with a
 
 ## Live Demo
 [https://portfolio-builderapp.netlify.app/](https://portfolio-builderapp.netlify.app/)
+
+## Screenshot
+![Portfolio Builder Web App Screenshot](src/Screenshot%20.png)
 ## Getting Started
 
 ### Prerequisites
