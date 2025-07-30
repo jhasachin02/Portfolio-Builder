@@ -4,6 +4,15 @@ A modern web application for building and customizing personal portfolios with a
 
 ## Features
 
+- **User Authentication:** Secure login and signup functionality using Firebase Authentication.
+- **Drag-and-Drop Editor:** Easily add, remove, and rearrange portfolio components with an intuitive drag-and-drop interface.
+- **Live Preview:** Instantly preview your portfolio as you make changes.
+- **Customizable Sections:** Personalize sections like Hero, About, Contact, and more to showcase your skills and experience.
+- **Dashboard:** Manage and organize all your portfolio components from a central dashboard.
+- **Responsive Design:** Fully responsive layout for seamless experience on desktop and mobile devices.
+- **Modern Tech Stack:** Built with React, TypeScript, Tailwind CSS, and Vite for fast and maintainable development.
+- **Firebase Integration:** Real-time data storage and authentication using Firebase services.
+
 ## Live Demo
 [https://portfolio-builderapp.netlify.app/](https://portfolio-builderapp.netlify.app/)
 ## Getting Started
