@@ -18,6 +18,13 @@ A modern web application for building and customizing personal portfolios with a
 
 ## Screenshot
 ![Portfolio Builder Web App Screenshot](src/Screenshot%20.png)
+## Tech Stack
+
+- **Frontend:** React, TypeScript, Tailwind CSS, Vite
+- **Authentication & Database:** Firebase
+- **State Management:** React Context API
+- **Styling:** Tailwind CSS
+- **Build Tool:** Vite
 ## Getting Started
 
 ### Prerequisites
